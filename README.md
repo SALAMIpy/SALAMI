@@ -1,6 +1,6 @@
 # SALAMI
 
-This GitLab repository contains Python scripts for interacting with the SALAMI dataset, for obtaining Level 1 SDO/AIA data, and for cross-referencing the occurrences of solar flares with geomagnetic storms. For more details on the SALAMI dataset, please refer to the following paper:
+This repository contains Python scripts for interacting with the SALAMI dataset, for obtaining Level 1 SDO/AIA data, and for cross-referencing the occurrences of solar flares with geomagnetic storms. For more details on the SALAMI dataset, please refer to the following paper:
 
 "Storm Archive for Learning and Anticipation with Machine Intelligence (SALAMI): A Machine Learning-Ready Dataset for Space Weather Prediction"
 
